@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 29494a4111357554c91202a6b65975e6
+timeCreated: 1519364531
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_kitten: {fileID: 164430, guid: 0cf6f4d1ad03d4a7592bfd53fd841757, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
